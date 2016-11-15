@@ -4,5 +4,5 @@
 
 studiert ***Informatik***
 
-![Bild](C:\Users\Jessi\Documents\GitHub\Einkaufsliste\Einkaufsliste\bild.jpeg)
+![Bild](https://github.com/jessiRo0709/Einkaufsliste/blob/jessis-zweig/bild.jpg)
 
